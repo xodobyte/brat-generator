@@ -1,0 +1,18 @@
+{
+  "name": "brat-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.73",
+    "express": "^5.1.0",
+    "twemoji-parser": "^14.0.0"
+  }
+}
