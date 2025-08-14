@@ -1,8 +1,12 @@
 # Brat Generator REST API
 
+![Stars](https://img.shields.io/github/stars/xodobyte/OWEN?style=for-the-badge) 
+![Forks](https://img.shields.io/github/forks/xodobyte/OWEN?style=for-the-badge) 
+![Issues](https://img.shields.io/github/issues/xodobyte/OWEN?style=for-the-badge) 
+![Repo Size](https://img.shields.io/github/repo-size/xodobyte/OWEN?style=for-the-badge)
+
 **All Rights Reserved © xodobyte**  
 This API generates custom "Brat" style images with emoji support.  
-**This is not intended for local execution or code redistribution** — code is obfuscated and hosted securely.
 
 ---
 
